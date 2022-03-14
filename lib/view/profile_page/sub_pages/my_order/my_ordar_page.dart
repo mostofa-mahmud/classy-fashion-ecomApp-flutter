@@ -1,6 +1,6 @@
-import 'package:classy_e_com_demo_test_ui_1/controller/app_bar_controler.dart';
-import 'package:classy_e_com_demo_test_ui_1/controller/peimary_page_controller.dart';
-import 'package:classy_e_com_demo_test_ui_1/view/profile_page/sub_pages/my_order/componnent/body.dart';
+import 'package:classy_fashion_ecom_app/controller/app_bar_controler.dart';
+import 'package:classy_fashion_ecom_app/controller/peimary_page_controller.dart';
+import 'package:classy_fashion_ecom_app/view/profile_page/sub_pages/my_order/componnent/body.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

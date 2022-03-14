@@ -1,8 +1,8 @@
 //import 'package:classy_ui_design/address/payment.dart';
-import 'package:classy_e_com_demo_test_ui_1/controller/app_bar_controler.dart';
-import 'package:classy_e_com_demo_test_ui_1/controller/peimary_page_controller.dart';
-import 'package:classy_e_com_demo_test_ui_1/view/profile_page/sub_pages/edit_address/edit_address_page.dart';
-import 'package:classy_e_com_demo_test_ui_1/view/profile_page/sub_pages/payment_method_page/payment_methods_page.dart';
+import 'package:classy_fashion_ecom_app/controller/app_bar_controler.dart';
+import 'package:classy_fashion_ecom_app/controller/peimary_page_controller.dart';
+import 'package:classy_fashion_ecom_app/view/profile_page/sub_pages/edit_address/edit_address_page.dart';
+import 'package:classy_fashion_ecom_app/view/profile_page/sub_pages/payment_method_page/payment_methods_page.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';

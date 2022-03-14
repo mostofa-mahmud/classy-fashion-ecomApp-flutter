@@ -1,10 +1,10 @@
-import 'package:classy_e_com_demo_test_ui_1/controller/app_bar_controler.dart';
-import 'package:classy_e_com_demo_test_ui_1/controller/product_detail_controller.dart';
-import 'package:classy_e_com_demo_test_ui_1/model/best_selling_product.dart';
-import 'package:classy_e_com_demo_test_ui_1/view/product_details/component/add_to_card_button.dart';
-import 'package:classy_e_com_demo_test_ui_1/view/product_details/component/color_button.dart';
-import 'package:classy_e_com_demo_test_ui_1/view/product_details/component/comments_box.dart';
-import 'package:classy_e_com_demo_test_ui_1/view/product_details/component/size_buttons.dart';
+import 'package:classy_fashion_ecom_app/controller/app_bar_controler.dart';
+import 'package:classy_fashion_ecom_app/controller/product_detail_controller.dart';
+import 'package:classy_fashion_ecom_app/model/best_selling_product.dart';
+import 'package:classy_fashion_ecom_app/view/product_details/component/add_to_card_button.dart';
+import 'package:classy_fashion_ecom_app/view/product_details/component/color_button.dart';
+import 'package:classy_fashion_ecom_app/view/product_details/component/comments_box.dart';
+import 'package:classy_fashion_ecom_app/view/product_details/component/size_buttons.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:provider/provider.dart';

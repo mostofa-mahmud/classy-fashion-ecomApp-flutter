@@ -1,6 +1,6 @@
-import 'package:classy_e_com_demo_test_ui_1/controller/product_detail_controller.dart';
-import 'package:classy_e_com_demo_test_ui_1/model/best_selling_product.dart';
-import 'package:classy_e_com_demo_test_ui_1/view/product_details/product_detail_page.dart';
+import 'package:classy_fashion_ecom_app/controller/product_detail_controller.dart';
+import 'package:classy_fashion_ecom_app/model/best_selling_product.dart';
+import 'package:classy_fashion_ecom_app/view/product_details/product_detail_page.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

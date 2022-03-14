@@ -1,6 +1,6 @@
-import 'package:classy_e_com_demo_test_ui_1/view/profile_page/sub_pages/shipping_address_page/shipping_address_pages.dart';
-import 'package:classy_e_com_demo_test_ui_1/view/signin_and_registration_module_pages/registation.dart';
-import 'package:classy_e_com_demo_test_ui_1/view/signin_and_registration_module_pages/reset.pass.dart';
+import 'package:classy_fashion_ecom_app/view/profile_page/sub_pages/shipping_address_page/shipping_address_pages.dart';
+import 'package:classy_fashion_ecom_app/view/signin_and_registration_module_pages/registation.dart';
+import 'package:classy_fashion_ecom_app/view/signin_and_registration_module_pages/reset.pass.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';

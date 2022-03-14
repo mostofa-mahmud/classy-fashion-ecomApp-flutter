@@ -1,4 +1,4 @@
-import 'package:classy_e_com_demo_test_ui_1/model/sub_sub_categories_product_model.dart';
+import 'package:classy_fashion_ecom_app/model/sub_sub_categories_product_model.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

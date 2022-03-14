@@ -1,7 +1,7 @@
 import 'dart:ui';
 
 //import 'package:classy_ui_e_commerce/signin_and_registration_module_pages/signin2.dart';
-import 'package:classy_e_com_demo_test_ui_1/view/signin_and_registration_module_pages/signin2.dart';
+import 'package:classy_fashion_ecom_app/view/signin_and_registration_module_pages/signin2.dart';
 import 'package:flutter/material.dart';
 class RegistationScreen extends StatelessWidget {
   bool isChecked = false;

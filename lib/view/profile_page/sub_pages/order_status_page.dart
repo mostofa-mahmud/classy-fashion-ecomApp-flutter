@@ -1,7 +1,7 @@
-import 'package:classy_e_com_demo_test_ui_1/controller/app_bar_controler.dart';
-import 'package:classy_e_com_demo_test_ui_1/controller/peimary_page_controller.dart';
-import 'package:classy_e_com_demo_test_ui_1/view/home_page/home_page.dart';
-import 'package:classy_e_com_demo_test_ui_1/view/order_module_page/order_track_page/order_track_page.dart';
+import 'package:classy_fashion_ecom_app/controller/app_bar_controler.dart';
+import 'package:classy_fashion_ecom_app/controller/peimary_page_controller.dart';
+import 'package:classy_fashion_ecom_app/view/home_page/home_page.dart';
+import 'package:classy_fashion_ecom_app/view/order_module_page/order_track_page/order_track_page.dart';
 import 'package:flutter/material.dart';
 import 'package:dotted_border/dotted_border.dart';
 import 'package:provider/provider.dart';

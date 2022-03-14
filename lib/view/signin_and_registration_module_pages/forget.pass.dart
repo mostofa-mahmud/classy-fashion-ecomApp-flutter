@@ -1,5 +1,5 @@
 //import 'package:classy_ui_e_commerce/signin_and_registration_module_pages/otp.screen.dart';
-import 'package:classy_e_com_demo_test_ui_1/view/signin_and_registration_module_pages/otp.screen.dart';
+import 'package:classy_fashion_ecom_app/view/signin_and_registration_module_pages/otp.screen.dart';
 import 'package:flutter/material.dart';
 class ForgetPassScreen extends StatelessWidget {
   const ForgetPassScreen ({Key? key}) : super(key: key);

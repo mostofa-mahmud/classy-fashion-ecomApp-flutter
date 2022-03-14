@@ -1,5 +1,5 @@
 //import 'package:classy_ui_design/main.dart';
-import 'package:classy_e_com_demo_test_ui_1/view/profile_page/sub_pages/order_status_page.dart';
+import 'package:classy_fashion_ecom_app/view/profile_page/sub_pages/order_status_page.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 //import 'package:flutter/widgets.dart';

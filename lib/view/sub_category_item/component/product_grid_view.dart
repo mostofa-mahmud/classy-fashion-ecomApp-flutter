@@ -1,7 +1,7 @@
-import 'package:classy_e_com_demo_test_ui_1/controller/app_bar_controler.dart';
-import 'package:classy_e_com_demo_test_ui_1/controller/secondary_page_controller.dart';
-import 'package:classy_e_com_demo_test_ui_1/controller/sub_category_controller.dart';
-import 'package:classy_e_com_demo_test_ui_1/model/sub_category_model.dart';
+import 'package:classy_fashion_ecom_app/controller/app_bar_controler.dart';
+import 'package:classy_fashion_ecom_app/controller/secondary_page_controller.dart';
+import 'package:classy_fashion_ecom_app/controller/sub_category_controller.dart';
+import 'package:classy_fashion_ecom_app/model/sub_category_model.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

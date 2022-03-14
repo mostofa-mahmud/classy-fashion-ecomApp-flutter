@@ -1,4 +1,4 @@
-import 'package:classy_e_com_demo_test_ui_1/controller/product_detail_controller.dart';
+import 'package:classy_fashion_ecom_app/controller/product_detail_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:provider/provider.dart';

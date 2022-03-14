@@ -1,4 +1,4 @@
-import 'package:classy_e_com_demo_test_ui_1/model/top_categories_model.dart';
+import 'package:classy_fashion_ecom_app/model/top_categories_model.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';

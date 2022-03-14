@@ -1,8 +1,8 @@
 import 'dart:async';
 //import 'package:classy_ui_design/address/residential%20address.dart';
-import 'package:classy_e_com_demo_test_ui_1/controller/app_bar_controler.dart';
-import 'package:classy_e_com_demo_test_ui_1/controller/peimary_page_controller.dart';
-import 'package:classy_e_com_demo_test_ui_1/view/order_module_page/order_accepted_page/order_accepted_page.dart';
+import 'package:classy_fashion_ecom_app/controller/app_bar_controler.dart';
+import 'package:classy_fashion_ecom_app/controller/peimary_page_controller.dart';
+import 'package:classy_fashion_ecom_app/view/order_module_page/order_accepted_page/order_accepted_page.dart';
 import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:provider/provider.dart';

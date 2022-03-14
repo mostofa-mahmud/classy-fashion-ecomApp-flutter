@@ -1,5 +1,5 @@
-import 'package:classy_e_com_demo_test_ui_1/model/my_order_model_item.dart';
-import 'package:classy_e_com_demo_test_ui_1/view/profile_page/sub_pages/my_order/componnent/constant.dart';
+import 'package:classy_fashion_ecom_app/model/my_order_model_item.dart';
+import 'package:classy_fashion_ecom_app/view/profile_page/sub_pages/my_order/componnent/constant.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 class Body extends StatefulWidget {

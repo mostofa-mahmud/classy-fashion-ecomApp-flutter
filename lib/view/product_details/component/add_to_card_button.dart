@@ -1,5 +1,5 @@
-import 'package:classy_e_com_demo_test_ui_1/controller/product_detail_controller.dart';
-import 'package:classy_e_com_demo_test_ui_1/model/cart_model.dart';
+import 'package:classy_fashion_ecom_app/controller/product_detail_controller.dart';
+import 'package:classy_fashion_ecom_app/model/cart_model.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart';

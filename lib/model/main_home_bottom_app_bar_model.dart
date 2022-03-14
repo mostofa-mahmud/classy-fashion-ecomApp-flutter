@@ -1,4 +1,4 @@
-import 'package:classy_e_com_demo_test_ui_1/model/wishlist_model.dart';
+import 'package:classy_fashion_ecom_app/model/wishlist_model.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:flutter/material.dart';

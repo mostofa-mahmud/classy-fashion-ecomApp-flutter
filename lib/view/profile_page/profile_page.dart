@@ -1,4 +1,4 @@
-import 'package:classy_e_com_demo_test_ui_1/view/profile_page/component/profile_custom_buttons.dart';
+import 'package:classy_fashion_ecom_app/view/profile_page/component/profile_custom_buttons.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
